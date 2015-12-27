@@ -1,0 +1,22 @@
+/* add custom styles */
+/*body {
+  padding-top: 80px;
+}*/
+
+.navbar-brand>img {
+  max-height: 50px
+}
+
+/*.navbar {
+  height: 65px;
+}*/
+
+.navbar li {
+  margin-top: 13px;
+  font-size: 1.2em;
+
+}
+
+.list-unstyled li {
+  padding: 5px 0;
+}
